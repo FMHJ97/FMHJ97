@@ -1,9 +1,10 @@
 # Hi, I'm Francisco Manuel 👋
 
-Aspiring Web Application Developer with hands-on experience in programming and web design.
+Aspiring Web Application Developer  
+with hands-on experience in programming and web design.
 
-**Contact me**: fmhj97@gmail.com
-
+:mailbox_with_no_mail: **Contact me**: fmhj97@gmail.com  
+  
 ## 🌟 Languages and Tools
 
 <table>
