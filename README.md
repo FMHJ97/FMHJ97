@@ -3,6 +3,8 @@
 Web Application Developer  
 with hands-on experience in programming and web design.
 
+:writing_hand_tone1: **Currently:** *Learning Laravel + Vue* 
+
 :mailbox_with_no_mail: **Contact me**: fmhj97@gmail.com  
   
 ## 🌟 Languages and Tools
