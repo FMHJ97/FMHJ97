@@ -1,9 +1,6 @@
 # Hi, I'm Francisco Manuel 👋
 
-Web Application Developer  
-with hands-on experience in programming and web design.
-
-:writing_hand: **Currently:** *Learning Laravel + Vue* 
+Web Application Developer
 
 :mailbox_with_no_mail: **Contact me**: fmhj97@gmail.com  
   
@@ -31,7 +28,7 @@ with hands-on experience in programming and web design.
   <tr>
     <td><strong>Programs</strong></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse,vscode,sublime,figma" alt="Programs"></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,figma" alt="Programs"></a>
     </td>
   </tr>
 </table>
