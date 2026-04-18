@@ -16,7 +16,7 @@ Web Application Developer
   <tr>
     <td><strong>Database Management</strong></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="Database Skills"></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql, postgres" alt="Database Skills"></a>
     </td>
   </tr>
   <tr>
