@@ -1,7 +1,9 @@
 # Hi, I'm Francisco Manuel 👋
 
 Web Developer (Backend/Full-stack Developer)
+
 :books: **Currently learning**: React
+
 :mailbox_with_no_mail: **Contact me**: fmhj97@gmail.com  
   
 ## 🌟 Languages and Tools
